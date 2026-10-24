@@ -33,8 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bramhendra-C/DSA-Problem-solving/tree/master/0002-add-two-numbers) |
+| [2409-count-days-spent-together](https://github.com/Bramhendra-C/DSA-Problem-solving/tree/master/2409-count-days-spent-together) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bramhendra-C/DSA-Problem-solving/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [2409-count-days-spent-together](https://github.com/Bramhendra-C/DSA-Problem-solving/tree/master/2409-count-days-spent-together) |
 <!---LeetCode Topics End-->
