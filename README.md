@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bramhendra-C/DSA-Problem-solving/tree/master/0001-two-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Bramhendra-C/DSA-Problem-solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bramhendra-C/DSA-Problem-solving/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Bramhendra-C/DSA-Problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Bramhendra-C/DSA-Problem-solving/tree/master/0002-add-two-numbers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Bramhendra-C/DSA-Problem-solving/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/Bramhendra-C/DSA-Problem-solving/tree/master/2409-count-days-spent-together) |
 ## Recursion
 |  |
