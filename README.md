@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Bramhendra-C/DSA-Problem-solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Bramhendra-C/DSA-Problem-solving/tree/master/2409-count-days-spent-together) |
 ## Dynamic Programming
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Bramhendra-C/DSA-Problem-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Simulation
+|  |
+| ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Bramhendra-C/DSA-Problem-solving/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
